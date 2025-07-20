@@ -6,11 +6,11 @@ This repository contains the official implementation of our research work on gen
 
 🔍 Key Contributions:
 
-CTR Annotation Set: We introduce a novel cardiomegaly-focused annotation set built from the MIMIC-CXR dataset, comprising 300 manually annotated bounding boxes for the heart and thoracic cavity.
+1. CTR Annotation Set: We introduce a novel cardiomegaly-focused annotation set built from the MIMIC-CXR dataset, comprising 300 manually annotated bounding boxes for the heart and thoracic cavity.
 
-YOLOv11-Based Detector: A customized YOLOv11-based object detector is trained to localize the heart and thorax, achieving >99% AP@50 on our annotation set.
+2. YOLOv11-Based Detector: A customized YOLOv11-based object detector is trained to localize the heart and thorax, achieving >99% AP@50 on our annotation set.
 
-CTR-Driven Report Generation: We incorporate the computed CTR into a Vision Encoder-Decoder (VED) report generation pipeline, allowing the model to produce more accurate and clinically meaningful cardiomegaly descriptions.
+3. CTR-Driven Report Generation: We incorporate the computed CTR into a Vision Encoder-Decoder (VED) report generation pipeline, allowing the model to produce more accurate and clinically meaningful cardiomegaly descriptions.
 
 While ground-truth CTR labels are not available in MIMIC-CXR for quantitative validation, our qualitative analysis demonstrates that CTR-guided reporting yields improved clinical alignment and interpretable severity grading for cardiomegaly.
 
