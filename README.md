@@ -15,7 +15,7 @@ This repository contains the official implementation of our research work on gen
 While ground-truth CTR labels are not available in MIMIC-CXR for quantitative validation, our qualitative analysis demonstrates that CTR-guided reporting yields improved clinical alignment and interpretable severity grading for cardiomegaly.
 
 # Proposed Workflow
-
+<img width="9210" height="6374" alt="Image" src="https://github.com/user-attachments/assets/77b62c94-0922-45e2-8db5-52ade4d55635" />
 
 # Datasets
 
