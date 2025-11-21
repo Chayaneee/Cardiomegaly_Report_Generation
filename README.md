@@ -24,7 +24,8 @@ While ground-truth CTR labels are not available in MIMIC-CXR for quantitative va
 We have used two publicly available datasets for this experiment.
   - [MIMIC-CXR](https://physionet.org/content/mimiciii-demo/1.4/)
   - [VinDr-CXR](https://vindr.ai/datasets/cxr)
-Cardiomegaly Annotated Dataset
+    
+# Cardiomegaly Annotated Dataset
   - [VinDr_cxr_cardiomegaly_annotations](https://github.com/kaichenchai/vindr_cxr_cardiomegaly_annotations)
     
 # Customised MIMIC-Cardiomegaly Dataset Preparation
