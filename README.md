@@ -36,6 +36,17 @@ We have used two publicly available datasets for this experiment.
 
 # Quantitative Results
 
+| **Word-Overlap** | Result | **Semantic Similarity** | Result | **Classification Accuracy** | Result | **Clinical Evaluation** | Result |
+| ---------------- | ------ | ----------------------- | ------ | --------------------------- | ------ | ----------------------- | ------ |
+| BLEU-1           | 0.257  | ST                      | 0.846  | Accuracy                    | 0.918  | RadGraph-F1             | 0.510  |
+| BLEU-2           | 0.227  | EmbedAvg                | 0.725  | WA-F1                       | 0.918  | RadGraph-Precision      | 0.489  |
+| BLEU-3           | 0.208  | VE                      | 0.591  | WA-Precision                | 0.920  | RadGraph-Recall         | 0.485  |
+| BLEU-4           | 0.180  | GM                      | 0.827  | WA-Recall                   | 0.918  | GREEN                   | 0.701  |
+| METEOR           | 0.516  | —                       | —      | —                           | —      | —                       | —      |
+| ROUGE-L          | 0.522  | —                       | —      | —                           | —      | —                       | —      |
+| CIDEr            | 2.913  | —                       | —      | —                           | —      | —                       | —      |
+
+
 
 # Qualitative Results
 <img width="6075" height="2778" alt="Image" src="https://github.com/user-attachments/assets/329ed362-b34c-4051-aa58-39ccb28dbba1" />
