@@ -16,12 +16,16 @@ While ground-truth CTR labels are not available in MIMIC-CXR for quantitative va
 
 # Proposed Workflow
 <img width="9210" height="6374" alt="Image" src="https://github.com/user-attachments/assets/77b62c94-0922-45e2-8db5-52ade4d55635" />
+# Object Detection Pipeline
+<img width="6145" height="1579" alt="Image" src="https://github.com/user-attachments/assets/3cd0f89a-6dcb-4703-9acf-9f4affe46c08" />
+
 
 # Datasets
-
+<img width="789" height="403" alt="Image" src="https://github.com/user-attachments/assets/be9d42d5-08b7-45d2-8785-b903d6c4c08e" />
 
 
 # Quantitative Results
 
 
 # Qualitative Results
+<img width="6075" height="2778" alt="Image" src="https://github.com/user-attachments/assets/329ed362-b34c-4051-aa58-39ccb28dbba1" />
